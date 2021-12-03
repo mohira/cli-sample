@@ -1,3 +1,3 @@
-module github.com/mohira-cli-tmp
+module github.com/mohira/cli-sample
 
 go 1.17
